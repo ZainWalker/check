@@ -1,3 +1,5 @@
+//This program outputs a check mark made of asterisks
+
 #include <stdio.h>
 
 
